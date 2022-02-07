@@ -43,7 +43,7 @@ a {
 }   
 img {
     max-width: 100%;
-    height: auto;
+    
   }
 
   .text-gray {
@@ -148,7 +148,7 @@ img {
 
 @media screen and (max-width:750px) {
     .container {
-        padding: 0;
+        padding: 100px 0 100px 0;
     }
     
 }
